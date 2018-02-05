@@ -1,1 +1,1 @@
-# small-business-loan-analyis
+# small-business-loan-analysis
